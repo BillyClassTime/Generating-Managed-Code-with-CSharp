@@ -79,3 +79,12 @@ private void compile_button_Click(object sender, EventArgs e)
 }
 ```
 
+## Run Code
+
+```csharp
+private void run_button_Click(object sender, EventArgs e)
+{
+	Process.Start("TestGraph.exe");
+}
+```
+
