@@ -12,7 +12,7 @@ Using CodeDom with JavaScrip, CSharp and Visual Basic.Net Providers
 
 Win Form
 
-![](\Images\image-20201118103300863.png)
+![](./Images/image-20201118103300863.png)
 
 ## Generate Code
 
